@@ -22,7 +22,7 @@ setup(
     ]},
     version='0.0.1',
     url='https://github.com/timojl/clipseg',
-    python_requires='>=3.9',
+    python_requires='>=3.8',
     install_requires=requirements,
     description='This repository contains the code used in the paper "Image Segmentation Using Text and Image Prompts".',
     long_description=readme,
